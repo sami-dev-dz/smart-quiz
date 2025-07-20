@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="./css/Quiz-App.css" />
+  </head>
+  <body>
+    <div class="quiz-container">
+      <div class="quiz-header">
+        <div class="category-info">
+          <div class="category-label">Catégorie</div>
+          <div class="category-value">HTML</div>
+        </div>
+        <div class="question-counter">
+          <div class="counter-label">Questions</div>
+          <div class="counter-value"></div>
+        </div>
+      </div>
+
+      <div class="question-section">
+        <h2 class="question-title"></h2>
+
+        <div class="options-container">
+          <div class="option-item">
+            <input
+              type="radio"
+              name="answer"
+              id="option1"
+              class="option-input"
+            />
+            <label for="option1" class="option-label"></label>
+          </div>
+          <div class="option-item">
+            <input
+              type="radio"
+              name="answer"
+              id="option2"
+              class="option-input"
+            />
+            <label for="option2" class="option-label"></label>
+          </div>
+          <div class="option-item">
+            <input
+              type="radio"
+              name="answer"
+              id="option3"
+              class="option-input"
+            />
+            <label for="option3" class="option-label"></label>
+          </div>
+          <div class="option-item">
+            <input
+              type="radio"
+              name="answer"
+              id="option4"
+              class="option-input"
+            />
+            <label for="option4" class="option-label"></label>
+          </div>
+        </div>
+
+        <button class="submit-btn">Valider la réponse</button>
+      </div>
+
+      <div class="progress-section">
+        <div class="progress-indicators">
+          <div class="progress-dot active"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+          <div class="progress-dot"></div>
+        </div>
+        <div class="timer-display">60 seconde</div>
+      </div>
+
+      <div class="results-section" style="display: none">
+        <div class="result-score result-excellent"></div>
+        <div class="result-message"></div>
+        <div class="result-details"></div>
+      </div>
+    </div>
+
+  <script src="./js/Quiz-App.js"></script>
+
+  </body>
+</html>

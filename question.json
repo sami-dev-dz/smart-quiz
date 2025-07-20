@@ -1,0 +1,163 @@
+[
+    {
+      "title": "What does HTML stand for?",
+      "answer_1": "Hyper Trainer Marking Language",
+      "answer_2": "Hyper Text Markup Language",
+      "answer_3": "High Text Markup Language",
+      "answer_4": "Hyper Text Markdown Language",
+      "right_answer": "Hyper Text Markup Language"
+    },
+    {
+      "title": "Which HTML tag is used to define a paragraph?",
+      "answer_1": "<section>",
+      "answer_2": "<p>",
+      "answer_3": "<div>",
+      "answer_4": "<text>",
+      "right_answer": "<p>"
+    },
+    {
+      "title": "What tag is used to create a hyperlink?",
+      "answer_1": "<a>",
+      "answer_2": "<link>",
+      "answer_3": "<href>",
+      "answer_4": "<url>",
+      "right_answer": "<a>"
+    },
+    {
+      "title": "Which HTML element is used for inserting an image?",
+      "answer_1": "<pic>",
+      "answer_2": "<image>",
+      "answer_3": "<img>",
+      "answer_4": "<src>",
+      "right_answer": "<img>"
+    },
+    {
+      "title": "What is the correct way to add a comment in HTML?",
+      "answer_1": "// comment",
+      "answer_2": "<!-- comment -->",
+      "answer_3": "# comment",
+      "answer_4": "/* comment */",
+      "right_answer": "<!-- comment -->"
+    },
+    {
+      "title": "Which tag creates a line break?",
+      "answer_1": "<hr>",
+      "answer_2": "<br>",
+      "answer_3": "<break>",
+      "answer_4": "<lb>",
+      "right_answer": "<br>"
+    },
+    {
+      "title": "Which tag is used to display the largest heading?",
+      "answer_1": "<h1>",
+      "answer_2": "<heading>",
+      "answer_3": "<h6>",
+      "answer_4": "<head>",
+      "right_answer": "<h1>"
+    },
+    {
+      "title": "What tag is used to create an unordered list?",
+      "answer_1": "<ul>",
+      "answer_2": "<ol>",
+      "answer_3": "<li>",
+      "answer_4": "<list>",
+      "right_answer": "<ul>"
+    },
+    {
+      "title": "What tag is used to create a table row?",
+      "answer_1": "<row>",
+      "answer_2": "<tr>",
+      "answer_3": "<td>",
+      "answer_4": "<table>",
+      "right_answer": "<tr>"
+    },
+    {
+      "title": "What is the purpose of the <title> tag?",
+      "answer_1": "To set the heading",
+      "answer_2": "To display the title in the body",
+      "answer_3": "To define the browser tab title",
+      "answer_4": "To include metadata",
+      "right_answer": "To define the browser tab title"
+    },
+    {
+      "title": "Which attribute is used to provide alternative text for images?",
+      "answer_1": "title",
+      "answer_2": "alt",
+      "answer_3": "src",
+      "answer_4": "value",
+      "right_answer": "alt"
+    },
+    {
+      "title": "What is the correct tag to create a checkbox input?",
+      "answer_1": "<checkbox>",
+      "answer_2": "<input type='check'>",
+      "answer_3": "<input type='checkbox'>",
+      "answer_4": "<box>",
+      "right_answer": "<input type='checkbox'>"
+    },
+    {
+      "title": "Which tag defines the main content of the HTML document?",
+      "answer_1": "<content>",
+      "answer_2": "<section>",
+      "answer_3": "<main>",
+      "answer_4": "<body>",
+      "right_answer": "<main>"
+    },
+    {
+      "title": "What HTML tag is used to play a video?",
+      "answer_1": "<media>",
+      "answer_2": "<video>",
+      "answer_3": "<movie>",
+      "answer_4": "<play>",
+      "right_answer": "<video>"
+    },
+    {
+      "title": "Which element is used to group elements in a block?",
+      "answer_1": "<span>",
+      "answer_2": "<div>",
+      "answer_3": "<p>",
+      "answer_4": "<group>",
+      "right_answer": "<div>"
+    },
+    {
+      "title": "Which tag is used to emphasize text?",
+      "answer_1": "<strong>",
+      "answer_2": "<bold>",
+      "answer_3": "<em>",
+      "answer_4": "<i>",
+      "right_answer": "<em>"
+    },
+    {
+      "title": "What tag is used to create a drop-down list?",
+      "answer_1": "<input list>",
+      "answer_2": "<dropdown>",
+      "answer_3": "<select>",
+      "answer_4": "<options>",
+      "right_answer": "<select>"
+    },
+    {
+      "title": "Which tag is used to define a table cell?",
+      "answer_1": "<th>",
+      "answer_2": "<tc>",
+      "answer_3": "<td>",
+      "answer_4": "<cell>",
+      "right_answer": "<td>"
+    },
+    {
+      "title": "Which element is used to embed another HTML page within the current one?",
+      "answer_1": "<frame>",
+      "answer_2": "<embed>",
+      "answer_3": "<object>",
+      "answer_4": "<iframe>",
+      "right_answer": "<iframe>"
+    },
+    {
+      "title": "What tag is used for creating a numbered list?",
+      "answer_1": "<ul>",
+      "answer_2": "<list>",
+      "answer_3": "<ol>",
+      "answer_4": "<li>",
+      "right_answer": "<ol>"
+    }
+  ]
+  
